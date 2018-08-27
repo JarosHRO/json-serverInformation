@@ -1,0 +1,45 @@
+{
+    "peoples": [{
+            "code": 1,
+            "name": "Scarlett Johansson",
+            "biography": "Scarlett Johansson was born in New York City. Her mother, Melanie Sloan, is from a Jewish family from the Bronx, and her father, Karsten Johansson, is a Danish-born architect, from Copenhagen. She has a sister, Vanessa Johansson, who is also an actress, a brother, Adrian, a twin brother, Hunter Johansson.",
+            "img": "http://cdn1.sciencefiction.com/wp-content/uploads/2018/01/Black-Widow-Scarlett-Johansson-Avengers-Infinity-War-1.png",
+            "heroe": "Black Widow"
+        },
+        {
+            "code": 2,
+            "name": "Chris Evans",
+            "biography": "Christopher Robert Evans began his acting career in typical fashion: performing in school productions and community theatre. He was born in Boston, Massachusetts, the son of Lisa (Capuano), who worked at the Concord Youth Theatre, and G. Robert Evans III, a dentist. His uncle is congressman Mike Capuano.",
+            "img": "https://i0.wp.com/acceleratetv.com/wp-content/uploads/2018/03/captain-america-chris-evans.png?ssl=1",
+            "heroe": "Captain America"
+        },
+        {
+            "code": 3,
+            "name": "Robert Downey Jr.",
+            "biography": "Robert Downey Jr. has evolved into one of the most respected actors in Hollywood. With an amazing list of credits to his name, he has managed to stay new and fresh even after over four decades in the business. Downey was born April 4, 1965 in Manhattan, New York, the son of writer, director and filmographer Robert Downey Sr. and actress Elsie Downey",
+            "img": "http://www.stickpng.com/assets/images/58569c2d4f6ae202fedf2750.png",
+            "heroe": "Iron Man"
+        },
+        {
+            "code": 4,
+            "name": "Mark Ruffalo",
+            "biography": "Mark Ruffalo was born in Kenosha, Wisconsin, to Marie Rose (Hebert), a stylist and hairdresser, and Frank Lawrence Ruffalo, a construction painter. His father's ancestry is Italian, and his mother is of half French-Canadian and half Italian descent.",
+            "img": "https://vignette.wikia.nocookie.net/marvelmovies/images/4/4b/Hulk_Mark_Ruffalo.png/revision/latest?cb=20150331210850",
+            "heroe": "Hulk"
+        },
+        {
+            "code": 5,
+            "name": "Chris Hemsworth",
+            "biography": "Chris Hemsworth was born in Melbourne, Australia, to Leonie (van Os), a teacher of English, and Craig Hemsworth, a social-services counselor. His brothers are actors Liam Hemsworth and Luke Hemsworth. He is of Dutch (from his immigrant maternal grandfather), Irish, English, Scottish, and German ancestry.",
+            "img": "https://vignette.wikia.nocookie.net/marvelmovies/images/a/ad/Thor_Chris_Hemsworth.png/revision/latest?cb=20150331211108",
+            "heroe": "Thor"
+        },
+        {
+            "code": 6,
+            "name": "Jeremy Renner",
+            "biography": "Jeremy Lee Renner was born in Modesto, California, the son of Valerie (Tague) and Lee Renner, who managed a bowling alley. After a tumultuous yet happy childhood with his four younger siblings, Renner graduated from Beyer High School and attended Modesto Junior College.",
+            "img": "https://www.syfy.com/sites/syfy/files/wire/legacy/Captain-America-Civil-War-Hawkeye.png",
+            "heroe": "Hawkeye"
+        }
+    ]
+}
